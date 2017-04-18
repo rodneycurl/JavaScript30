@@ -1,13 +1,22 @@
 html {
   font-size: 10px;
-  background: url(http://i.imgur.com/b9r5sEL.jpg) bottom center;
+  background: url(https://www.doyouremember.co.uk/uploads/a5XmoIp971eMD4YncY_SL1500_.jpg) bottom center;
   background-size: cover;
 }
+
 body,html {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
 }
+
+/*h1 {
+  text-align: center;
+  font-size: 100px;
+  font-family: sans-serif;
+  margin: 10px;
+  color: white;
+}*/
 
 .keys {
   display: flex;
@@ -40,6 +49,7 @@ body,html {
 kbd {
   display: block;
   font-size: 4rem;
+  font-family: sans-serif;
 }
 
 .sound {
